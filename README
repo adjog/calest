@@ -1,0 +1,18 @@
+This is a shiny application for estimating one's base calorie
+needs based on personal information provided. It uses
+one of two methods depending on how much information you provide.
+See the pitch at:
+   http://rpubs/adjog/calestpitch
+for more details.
+
+The application is hosted at shinyapps.io, so you can
+go to:
+    https://adjog.shinyapps.io/CalEst
+to run it.
+
+Enter your personal information including gender (tick box),
+weight (slider box), and age and height (numeric entries).
+The units are shown on the page, although note carefully that
+height is in feed (so 6.1 is 6.1 feet, not 6 foot 1 inch).
+Enter the % of your body mass that is fat if you know it; otherwise
+leave as blank or 0. Percent body fat is the only optional entry, and a more accurate method is used if you provide this value.
