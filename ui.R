@@ -9,6 +9,12 @@ shinyUI(fluidPage(
     titlePanel("Baseline (resting) Calorie estimator"),
     sidebarLayout(
         sidebarPanel(
+
+            "Documentation: Enter your personal information (where % body ",
+            "fat is optional; leave as 0 or blank if you don't know). ",
+            "Your estimated resting calorie consumption is updated ",
+            "on the right, as well as the name of the estimator used.",
+            hr(),
             h4("Your information:"),
             hr(),
             radioButtons(
