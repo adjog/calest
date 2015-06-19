@@ -2,7 +2,7 @@ This is a shiny application for estimating one's base calorie
 needs based on personal information provided. It uses
 one of two methods depending on how much information you provide.
 See the pitch at:
-   http://rpubs/adjog/calestpitch
+   http://rpubs.com/adjog/calestpitch
 for more details.
 
 The application is hosted at shinyapps.io, so you can
